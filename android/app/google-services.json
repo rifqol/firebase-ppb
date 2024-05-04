@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203297295583",
+    "project_id": "fir-rifqi",
+    "storage_bucket": "fir-rifqi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203297295583:android:3aa10fef3b8071192dad6a",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9msl1JbhE81_rDu1v6YcxhTyZHsrf11A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
